@@ -43,6 +43,37 @@ The result is not a saved chat transcript. It is a knowledge system that becomes
 5. Let Hermes produce recurring maintenance reports under `wiki/hermes/` and `wiki/reports/`.
 6. Run `scripts/wiki-health-check.sh` and commit the changes.
 
+## Directory Structure
+
+```text
+.
+├── AGENTS.md
+├── CLAUDE.md
+├── CONTEXT.md
+├── README.md
+├── README.en.md
+├── docs/
+│   ├── adr/
+│   ├── runbooks/
+│   └── workflows/
+├── scripts/
+└── wiki/
+    ├── inbox/
+    ├── raw/
+    ├── wiki/
+    ├── decisions/
+    ├── projects/
+    ├── meetings/
+    ├── troubleshooting/
+    ├── prompts/
+    ├── templates/
+    ├── reports/
+    └── hermes/
+        ├── tasks/
+        ├── runs/
+        └── schedules/
+```
+
 ## Directory
 
 | Path | Purpose |
