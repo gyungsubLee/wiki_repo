@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -199,10 +196,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "dcf15c9ca9cdc1e1",
+  "active": "a2e2e558ee965069",
   "lastOpenFiles": [
-    "README.en.md",
     "README.md",
+    "README.en.md",
     "CONTEXT.md",
     "AGENTS.md",
     "CLAUDE.md",
