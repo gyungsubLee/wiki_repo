@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "ea5c1b4433668683",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc78912baa56188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf15c9ca9cdc1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c82ffa9f5879e2f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e2e558ee965069",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39fceda45e9d3014",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f71d86084b68e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb95e80e677fb366",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d1687a001c16a361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "fefbdbbd74f37215",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "890f797fceed1f9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b780e6944e543598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc16eb5f73629c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 의 백링크"
+            }
+          },
+          {
+            "id": "17098e6c700c6c89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 의 나가는 링크"
+            }
+          },
+          {
+            "id": "34ffac4cf365bfb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "4f774026098f06c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "41a5460f844dfd89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "dcf15c9ca9cdc1e1",
+  "lastOpenFiles": [
+    "README.en.md",
+    "README.md",
+    "CONTEXT.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "wiki/hermes/tasks/README.md",
+    "wiki/hermes/schedules/README.md",
+    "wiki/hermes/runs/README.md",
+    "환영합니다!.md",
+    "wiki/troubleshooting/README.md",
+    "wiki/wiki/index.md",
+    "wiki/wiki/README.md",
+    "wiki/templates/wiki-note.md",
+    "wiki/templates/troubleshooting.md",
+    "wiki/templates/project-context.md",
+    "wiki/templates/meeting.md",
+    "wiki/templates/ingest-note.md",
+    "wiki/templates/decision-record.md",
+    "wiki/templates/README.md",
+    "wiki/reports/README.md",
+    "wiki/meetings/README.md",
+    "wiki/projects/README.md",
+    "wiki/raw/README.md",
+    "wiki/prompts/hermes.md",
+    "wiki/prompts/README.md",
+    "wiki/prompts/codex.md",
+    "wiki/hermes/tasks",
+    "wiki/hermes/schedules",
+    "wiki/hermes/runs",
+    "wiki/troubleshooting",
+    "wiki/wiki",
+    "wiki/templates",
+    "wiki/reports",
+    "wiki/raw",
+    "wiki/prompts",
+    "wiki/projects"
+  ]
+}
